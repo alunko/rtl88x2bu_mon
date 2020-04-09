@@ -4,6 +4,8 @@ copy from https://github.com/cilynx/rtl88x2bu
 
 Enable monitor mode from original rtl88x2bu driver. 
 
+Recommend https://github.com/alunko/rtw88-usb_kalilinux driver for monitor mode.
+
 # DKMS installation
 
 ```bash
