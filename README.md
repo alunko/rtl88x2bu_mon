@@ -1,6 +1,6 @@
 copy from https://github.com/cilynx/rtl88x2bu
 
-# DKMS installation
+# Description
 
 Modification is enable Monitor mode driver from original rtl88x2bu driver. 
 
