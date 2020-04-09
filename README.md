@@ -7,6 +7,7 @@ Enable monitor mode from original rtl88x2bu driver.
 # DKMS installation
 
 ```bash
+apt install bc
 cd rtl88x2bu
 VER=$(sed -n 's/\PACKAGE_VERSION="\(.*\)"/\1/p' dkms.conf)
 sudo rsync -rvhP ./ /usr/src/rtl88x2bu-${VER}
