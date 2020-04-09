@@ -5,6 +5,7 @@ copy from https://github.com/cilynx/rtl88x2bu
 Enable monitor mode from original rtl88x2bu driver. 
 
 Recommend https://github.com/alunko/rtw88-usb_kalilinux driver for monitor mode.
+It seems, this driver has problem in capturing 80MHz data frames.
 
 # DKMS installation
 
